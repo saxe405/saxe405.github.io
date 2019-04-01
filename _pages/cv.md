@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrate M.Sc. in Mathematics and Scientific Computing, IIT Kanpur, India, 2013
+* Ph.D in Operations Research, Ghent University, 2020 (expected)
 
 Work experience
 ======
+* 2013 - 2016: Senior Quantitative Analyst
+  * Goldman Sachs
+  * Work included developing pricing models of Equity derivatives and inventory management of trading desk
+  * Trading desk: Synthetic products
+
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of British Columbia, Canada
+  * Studied terrain visibility graphs
+  * Supervisor: Professor Will Evans, Department of Computer Science
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Tata Institute of Fundamental Research, Mumbai
+  * Studied probabilistic methods
+  * Supervisor: Professor Amitava Bhattacharya
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stochastic Modeling
+* Coding
+  * C++
+  * Go
+  * Python
+  * Java
+* Finance
 
 Publications
 ======
@@ -54,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Others
 ======
-* Currently signed in to 43 different slack teams
+* Long distance running (10Km and half-marathons)
