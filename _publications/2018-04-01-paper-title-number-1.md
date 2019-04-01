@@ -10,6 +10,6 @@ citation: 'Saxena, Apoorv (2018). &quot;Modeling data backups as a batch-service
 ---
 
 
-[Download paper here](http://saxe405.github.io/files/paper1.pdf)
+[Download paper here](http://saxe405.github.io/files/1-s2.0-S0140366418302901-main.pdf)
 
 Recommended citation: Saxena, Apoorv (2018). "Modeling data backups as a batch-service queue with vacations and exhaustive policy." <i>Computer Communications</i>. 128(46-59).
