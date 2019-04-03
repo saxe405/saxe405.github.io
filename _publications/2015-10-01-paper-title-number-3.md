@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Cloud data storage: A Queueing Model with thresholds"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Storage processes are designed in a way to guarantee a high quality of service to its users. The service quality levels are ensured by performing the operations at an optimal frequency. Moreover, long backup off periods and high backlogs are also avoided by using trigger mechanisms. In this paper, we model these trigger mechanisms using restarting thresholds and study the underlying queueing model.'
+date: 2018-10-01
+venue: 'Annals of Operations Research'
+<!-- paperurl: 'http://academicpages.github.io/files/paper3.pdf' -->
+citation: 'Saxena, Apoorv. (2019). &quot;Cloud data storage: A queueing model with thresholds.&quot; <i>Annals of Operations Research</i>. (Under Review).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf) -->
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Saxena, Apoorv. (2019). "Cloud data storage: A queueing model with thresholds." <i>Annals of Operations Research</i>. (Under Review).
