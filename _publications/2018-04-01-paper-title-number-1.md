@@ -6,10 +6,10 @@ excerpt: 'Data is increasing being stored in clouds due to the benefits of this 
 date: 2018-04-01
 venue: 'Computer Communications'
 paperurl: 'https://doi.org/10.1016/j.comcom.2018.07.014'
-citation: 'Saxena, Apoorv (2018). &quot;Modeling data backups as a batch-service queue with vacations and exhaustive policy.&quot; <i>Computer Communications</i>. 128(46-59).'
+citation: 'Apoorv Saxena, Dieter Claeys, Herwig Bruneel, Bo Zhang, Joris Walraevens (2018). &quot;Modeling data backups as a batch-service queue with vacations and exhaustive policy.&quot; <i>Computer Communications</i>. 128(46-59).'
 ---
 
 
-[Download paper here](http://saxe405.github.io/files/1-s2.0-S0140366418302901-main.pdf)
+<!--[Download paper here](http://saxe405.github.io/files/1-s2.0-S0140366418302901-main.pdf) -->
 
-Recommended citation: Saxena, Apoorv (2018). "Modeling data backups as a batch-service queue with vacations and exhaustive policy." <i>Computer Communications</i>. 128(46-59).
+Recommended citation: Apoorv Saxena, Dieter Claeys, Herwig Bruneel, Bo Zhang, Joris Walraevens (2018). "Modeling data backups as a batch-service queue with vacations and exhaustive policy." <i>Computer Communications</i>. 128(46-59).
