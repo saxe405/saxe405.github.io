@@ -21,12 +21,12 @@ Work experience
   * Work included developing pricing models of Equity derivatives and inventory management of trading desk
   * Trading desk: Synthetic products
 
-* Summer 2015: Research Assistant
+* Summer 2012: Research Assistant
   * University of British Columbia, Canada
   * Studied terrain visibility graphs
   * Supervisor: Professor Will Evans, Department of Computer Science
 
-* Fall 2015: Research Assistant
+* Summer 2011: Research Assistant
   * Tata Institute of Fundamental Research, Mumbai
   * Studied probabilistic methods
   * Supervisor: Professor Amitava Bhattacharya
