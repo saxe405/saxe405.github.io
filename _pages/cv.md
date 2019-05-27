@@ -31,6 +31,11 @@ Work experience
   * Studied probabilistic methods
   * Supervisor: Professor Amitava Bhattacharya
   
+* Summer 2010: Research Assistant
+  * Indian Statistical Institute (ISI), Kolkata
+  * Topology
+  * Supervisor: Professor Mainak Poddar
+  
 Skills
 ======
 * Stochastic Modeling
